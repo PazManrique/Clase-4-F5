@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.Container {
+    display: table;
+    border: 2px solid #000;
+    width: 700px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.HTML5, .CSS3  {
+    display: table-row;
+    background-color: rgb(37, 35, 35);
+}
+
+.Main {
+    display: table-row;
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: justify;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

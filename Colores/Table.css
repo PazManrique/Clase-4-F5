@@ -1,0 +1,160 @@
+.Container {
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid #000;
+    width: 450px;
+    height: 200px;
+    text-align: left;
+    margin: auto;
+}
+
+
+.Column0 {
+   width: 100%;
+    padding: 10px;
+    background-color: green;
+    text-align: center;
+}
+
+.Column0:hover{
+    opacity: 50%;
+}
+
+.Column16:hover{
+    opacity: 50%;
+}
+
+.Column1{
+    background-color: #000;
+    width: 16.67%;
+}
+
+.Column1:hover{
+    opacity: 50%;
+}
+
+.Column2{
+    background-color: teal;
+    width: 16.67%;
+}
+.Column2:hover{
+    opacity: 50%;
+}
+
+.Column3{
+    background-color: blue;
+    width: 16.67%;
+}
+.Column3:hover{
+    opacity: 50%;
+}
+
+.Column4{
+    background-color: navy;
+    width: 16.67%;
+}
+.Column4:hover{
+    opacity: 50%;
+}
+
+.Column5{
+    background-color: lime;
+    width: 16.67%;
+}
+.Column5:hover{
+    opacity: 50%;
+}
+
+.Column6{
+    background-color: white;
+    width: 16.67%;
+}
+.Column6:hover{
+    opacity: 50%;
+}
+
+
+.Column7{
+    background-color: purple;
+    width: 16.67%;
+}
+.Column7:hover{
+    opacity: 50%;
+}
+
+.Column8{
+    background-color: yellow;
+    width: 16.67%;
+}
+.Column8:hover{
+    opacity: 50%;
+}
+
+.Column9 {
+    background-color: olive;
+    width: 16.67%;
+}
+.Column9:hover{
+    opacity: 50%;
+}
+
+.Column10 {
+    background-color: red;
+    width: 16.67%;
+}
+.Column10:hover{
+    opacity: 50%;
+}
+
+.Column11{
+    background-color: brown;
+    width: 16.67%;
+}
+.Column11:hover{
+    opacity: 50%;
+}
+
+.Column12{
+    background-color: gray;
+    width: 16.67%;
+}
+.Column12:hover{
+    opacity: 50%;
+}
+
+.Column13{
+    background-color: olive;
+    width: 16.67%;
+}
+.Column13:hover{
+    opacity: 50%;
+}
+
+.Column14{
+    background-color: red;
+    width: 16.67%;
+}
+.Column14:hover{
+    opacity: 50%;
+}
+
+.Column15{
+    background-color: fuchsia;
+    width: 16.67%;
+}
+.Column15:hover{
+    opacity: 50%;
+}
+
+.Column16{
+    background-color: green;
+    width: 50%;
+}
+.Column16:hover{
+    opacity: 50%;
+}
+
+h3 {
+    font-size: 25px;
+    font-family: Lucida Sans;
+}
